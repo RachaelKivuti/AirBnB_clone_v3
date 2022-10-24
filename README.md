@@ -2,5 +2,4 @@
 ## AUTHORS
 
 - Rachael Kivuti : <kivutingatha@gmail.com>
-<br>
 - Richard Ouma : <otienorichard505@gmail.com>
